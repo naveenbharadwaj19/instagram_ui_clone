@@ -1,0 +1,1 @@
+List<bool> activateFav = [false,false,false,false,false,false];
